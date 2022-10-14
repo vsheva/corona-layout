@@ -1,4 +1,4 @@
-<h1>Go Corona Layout Project</h1>
+<h1>Corona Layout Project</h1>
 <hr>
 <h2>Site link</h2>
 <h3>The tech stack is:</h3>
