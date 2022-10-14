@@ -162,6 +162,130 @@ body {
 
 /* -------------------------------------------------------------------- */
 
+.get-started {
+    background-color: #fafbfd;
+}
+
+.get-started__container {
+    padding: 15rem 1.5rem 5rem 1.5rem;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.get-started__container::before {
+    content: "";
+    position: absolute;
+    width: 100vw;
+    height: 100%;
+    right: 26.7rem;
+    top: 0;
+    transform: translate(100%, 0rem);
+    border-radius: 3rem 0 0 3rem;
+    background-color: #ec5863;
+}
+
+.get-started__content {
+    flex: 0 1 48%;
+    padding: 0 2rem;
+}
+
+.get-started__text-block {
+    max-width: 41rem; /*! 410px*/
+}
+
+.get-started__video {
+    flex: 1 1 100%;
+    padding: 6rem 0 0 2rem;
+}
+
+.video-get-started {
+    display: inline-flex;
+    align-items: center;
+}
+
+.video-get-started__icon {
+    flex: 0 0 4.4rem;
+}
+
+.video-get-started__body {
+    padding: 0 0 0 1.2rem;
+}
+
+.video-get-started__title {
+    font-size: 1.3rem;
+    line-height: 126%;
+    color: #b0b0b0;
+    letter-spacing: 0.15rem;
+}
+
+.video-get-started__title:not(:last-child) {
+    margin: 0 0 0.5rem 0;
+}
+
+.video-get-started__text {
+    font-size: 0.9rem;
+    line-height: 126%;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+.get-started__image {
+    flex: 0 1 52%;
+    position: relative;
+    z-index: 2;
+}
+
+.get-started__image img {
+    max-width: 100%;
+}
+
+/* ------------------------ */
+.text-block--center {
+    text-align: center;
+}
+.text-block__text--mw {
+    max-width: 63rem;
+    margin: 0 auto;
+}
+.text-block__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 126%;
+    color: #000000;
+}
+.text-block__title:not(:last-child) {
+    margin: 0 0 1.2rem 0;
+}
+.text-block__title span {
+    color: #ec5863;
+}
+.text-block__title--blue span {
+    color: #4285f4;
+}
+.text-block__text {
+    font-size: 1.2rem;
+    line-height: 138.5%;
+}
+.text-block__text:not(:last-child) {
+    margin: 0 0 2.4rem 0;
+}
+/* ------------------------ */
+
+/* ------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* ---------------------------------------------------------------- */
@@ -226,7 +350,8 @@ body {
         height: 100%;
         width: 100%;
         background-color: #fff;
-        padding: 9rem 1.5rem 3rem 1.5rem;
+        padding: 90px 15px 30px 15px;
+        /*padding: 9rem 1.5rem 3rem 1.5rem;*/
         transition: left 0.3s linear;
         overflow: auto;
     }
@@ -240,7 +365,8 @@ body {
         position: fixed;
         top: 0;
         left: 0;
-        height: 8rem;
+        height: 80px;
+        /*8rem*/
         width: 100%;
         background-color: #fff;
     }
@@ -413,6 +539,7 @@ body {
         background-color: #000;
         position: absolute;
         height: 0.2rem;
+        /*2px*/
         left: 0;
         width: 100%;
         top: 50%;
