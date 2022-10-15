@@ -7,7 +7,7 @@
 <li><a href="https://en.wikipedia.org/wiki/CSS" >CSS3</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout" >Flexbox</a></li>
 <li><a href="https://en.bem.info/methodology/">BEM</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Figma_(software)">BEM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Figma_(software)">Figma</a></li>
 </ul>
 
 <br>
