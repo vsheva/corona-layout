@@ -13,5 +13,5 @@ The current version of the project is [here](https://app-corona.netlify.app)
 <br>
 <h2>Author</h2>
 <ul>
-<li>Valerii SH</li>
+<li>Valerii Shevchenko</li>
 </ul>
