@@ -6,8 +6,7 @@
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CSS" >CSS3</a></li>
 <li><a href="https://en.wikipedia.org/wiki/CSS_Flexible_Box_Layout" >Flexbox</a></li>
-<li><a href="https://sass-lang.com/">Sass (Scss)</a></li>
-<li><a href="https://en.bem.info/methodology/">HTML5</a></li>
+<li><a href="https://en.bem.info/methodology/">BEM</a></li>
 </ul>
 
 <br>
