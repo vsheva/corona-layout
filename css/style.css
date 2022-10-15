@@ -615,6 +615,8 @@ body {
 /* ---------------------------------------------------------------- */
 
 /* ----ADAPTIVE LAYOUT--------------- */
+
+
 @media (max-width: 1087px) {
     .header__container {
         max-width: 97rem;
@@ -674,8 +676,7 @@ body {
         height: 100%;
         width: 100%;
         background-color: #fff;
-        padding: 90px 15px 30px 15px;
-        /*padding: 9rem 1.5rem 3rem 1.5rem;*/
+        padding: 9rem 1.5rem 3rem 1.5rem;
         transition: left 0.3s linear;
         overflow: auto;
     }
@@ -689,8 +690,7 @@ body {
         position: fixed;
         top: 0;
         left: 0;
-        height: 80px;
-        /*8rem*/
+        height: 8rem;
         width: 100%;
         background-color: #fff;
     }
@@ -863,7 +863,6 @@ body {
         background-color: #000;
         position: absolute;
         height: 0.2rem;
-        /*2px*/
         left: 0;
         width: 100%;
         top: 50%;
