@@ -598,45 +598,23 @@ body {
 
 /* ---------------------------------------------------------------- */
 
+.footer {
+    padding: 4.5rem 0;
+}
 
+.footer__container {}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer__items {
+    display: flex;
+    gap: 5rem;
+    justify-content: center;
+    align-items: center;
+}
 
 
 /* ---------------------------------------------------------------- */
 
-/* ------------------------ */
+/* ----ADAPTIVE LAYOUT--------------- */
 @media (max-width: 1087px) {
     .header__container {
         max-width: 97rem;
