@@ -1,6 +1,5 @@
 <h1>Corona Layout Project</h1>
 <hr>
-<h2>Site link</h2>
 <h3>The tech stack is:</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
