@@ -1,6 +1,6 @@
 <h1>Corona layout project</h1>
 
-The current version of the layout is located [here](https://app-corona.netlify.app)
+The current version of the project is [here](https://app-corona.netlify.app)
 <h3>The tech stack is:</h3>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a></li>
