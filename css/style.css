@@ -12,6 +12,7 @@ a {
     text-decoration: none;
 }
 
+
 ul,
 ol,
 li {
@@ -313,7 +314,7 @@ body {
 
 .media-stay-safe__image {
     display: inline-block;
-    box-shadow: (0.2rem 0.4rem 3.2rem rgba(0, 0, 0, 0.12));
+    box-shadow: 0.2rem 0.4rem 3.2rem rgba(0, 0, 0, 0.12);
     border-radius: 1.6rem;
     position: relative;
     width: 61.5%;
@@ -610,6 +611,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 
 /* ---------------------------------------------------------------- */
 
