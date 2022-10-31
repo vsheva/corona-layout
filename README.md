@@ -1,4 +1,4 @@
-<h1> [Corona layout project](https://app-corona.netlify.app)</h1>
+#  [Corona layout project](https://app-corona.netlify.app)
 
 
 <h3>The tech stack is:</h3>
